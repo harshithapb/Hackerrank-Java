@@ -5,10 +5,10 @@
 2.Java Stdin and Stdout I\
 3.Java Stdin and Stdout II\
 4.Java Output Formatting\
-5.Java Loops I\
+5.Java Loops I
 
 
-## DAY 2\
+## DAY 2
 6.Java Loops II\
 7.Java Datatypes\
 8.Java End-of-file\
@@ -30,7 +30,7 @@
 20.Valid Username Regular Expression\
 21.Java Primality Test\
 22.Java BigInteger\
-23.Java 1D Array\
+23.Java 1D Array
 
 
 
@@ -52,7 +52,7 @@
 37.Java Method Overriding\
 38.Java Method Overriding 2 (Super Keyword)\
 39.Java Instanceof keyword\
-40.Java Iterator\
+40.Java Iterator
 
 ## DAY 5
 
@@ -67,7 +67,7 @@
 49.Java Regex 2 - Duplicate Words\
 50.Tag Content Extractor\
 51.Java BigDecimal\
-52.Java 1D Array (Part 2) \
+52.Java 1D Array (Part 2) 
 
 
 ## DAY 6
@@ -82,4 +82,4 @@
 60.Java Annotations\
 61.Java Lambda Expressions\
 62.Java MD5\
-63.Java SHA-256\
+63.Java SHA-256
